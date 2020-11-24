@@ -6,7 +6,6 @@ function compteur() {
   console.log(`Clique numéro ${x}`)
 }
 
-/** Fonction 2 */
 var menuBurger = document.querySelector('#navbarHeader');
 var buttonBurger = document.querySelector('span.navbar-toggler-icon')
 var toggler =  function() {
